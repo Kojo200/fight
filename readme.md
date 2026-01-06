@@ -1,3 +1,3 @@
 Question A:  
 
-What is 1+1 ?
+What is 1+1 = 2.
